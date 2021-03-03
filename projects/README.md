@@ -6,4 +6,5 @@
 
 ## Список
 
-- [Подсчёт индекса массы тела (weight-index)](https://github.com/andybeardness/Learning-C/tree/main/projects/weight-index)
+- [weight-index : Подсчёт индекса массы тела](https://github.com/andybeardness/Learning-C/tree/main/projects/weight-index)
+- [inc-operations : Операции сложения, умножения и возведения в степень, реализовнные через операцию инкремента](https://github.com/andybeardness/Learning-C/tree/main/projects/inc-operations)
