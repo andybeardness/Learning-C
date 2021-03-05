@@ -2,6 +2,8 @@
 
 Делаю упражнения из книги **"Язык программирования Си"**, K&amp;R, 5 издание
 
+... и пилю учебные проекты
+
 ![book](https://raw.githubusercontent.com/andybeardness/Learning-C/main/imgs/book.jpg)
 
 ----
