@@ -15,6 +15,8 @@ int main() {
 
     while(scanf("%lf", &tf) == 1) {
         Temperatures(tf);
+
+        printf("Введите значение градусов по Фаренгейту: ");
     }
 
     return 0;
@@ -29,6 +31,4 @@ void Temperatures(double tf) {
     double tk = tc + K_PLUS;
 
     printf("%.2lf°F == %.2lf°C == %.2lf°K\n\n", tf, tc, tk);
-
-    printf("Введите значение градусов по Фаренгейту: ");
 }
