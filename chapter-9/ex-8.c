@@ -36,5 +36,4 @@ double power(double base, int pow) {
     }
 
     return res;
-
 }
