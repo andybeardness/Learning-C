@@ -116,6 +116,7 @@ int main() {
                 switch (choice) {
                     case 1:
                         break;
+                        
                     case 2:
                         goto exit;
                 }
@@ -129,13 +130,6 @@ int main() {
                 goto exit;
         }
 }
-
-
-
-
-
-
-
 
     exit: return 0;
 }
