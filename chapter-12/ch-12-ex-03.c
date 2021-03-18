@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "ch12-ex-2.h"
+#include "H-ch-12-ex-02.h"
 
 int main() {
     int mode;

@@ -1,11 +1,3 @@
-//
-// Created by beard on 16.03.2021.
-//
-
-#ifndef LEARNINGC_CH12_EX_2_H
-#define LEARNINGC_CH12_EX_2_H
-#endif //LEARNINGC_CH12_EX_2_H
-
 int set_mode(int m) {
     printf("Функция set_mode из заголовочного файла!\n");
     return 0;

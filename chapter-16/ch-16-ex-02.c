@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "ch16.h"
+#include "H-ch-16-all.h"
 
 int main() {
     double result_1 = GARMONIC(1., 2., 3., 4., 5., 6., 7., 8., 9.);
