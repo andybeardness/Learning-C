@@ -43,7 +43,7 @@
 - [✔️ Глава 14](https://github.com/andybeardness/Learning-C/tree/main/chapter-14) : Структуры и другие формы данных
 - [✔️ Глава 15](https://github.com/andybeardness/Learning-C/tree/main/chapter-15) : Операции с разрядами
 - [✔️ Глава 16](https://github.com/andybeardness/Learning-C/tree/main/chapter-16) : Препроцессор и библиотека языка Си
-- 🔸 Глава 17 : Расширенное представление данных
+- [✔️ Глава 17](https://github.com/andybeardness/Learning-C/tree/main/chapter-17) : Расширенное представление данных
 ----
 
 ## Проекты
