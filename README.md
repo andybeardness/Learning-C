@@ -28,14 +28,14 @@
 ## Главы
 
 - ❌ ~~Глава 01 : Предварительные сведения~~ : Тут нет заданий, только вопросы для самоконтроля
-- [✔️ Глава 02](https://github.com/andybeardness/Learning-C/tree/main/chapter-2) : Введение в Язык Си
-- [✔️ Глава 03](https://github.com/andybeardness/Learning-C/tree/main/chapter-3) : Представление данных в Си
-- [✔️ Глава 04](https://github.com/andybeardness/Learning-C/tree/main/chapter-4) : Cимвольные  строки и  форматированный ввод-вывод
-- [✔️ Глава 05](https://github.com/andybeardness/Learning-C/tree/main/chapter-5) : Операции, выражения и операторы
-- [✔️ Глава 06](https://github.com/andybeardness/Learning-C/tree/main/chapter-6) : Управляющие операторы: циклы
-- [✔️ Глава 07](https://github.com/andybeardness/Learning-C/tree/main/chapter-7) : Управляющие операторы: ветвление и безусловные переходы
-- [✔️ Глава 08](https://github.com/andybeardness/Learning-C/tree/main/chapter-8) : Символьный ввод-вывод и верификация ввода
-- [✔️ Глава 09](https://github.com/andybeardness/Learning-C/tree/main/chapter-9) : Функции
+- [✔️ Глава 02](https://github.com/andybeardness/Learning-C/tree/main/chapter-02) : Введение в Язык Си
+- [✔️ Глава 03](https://github.com/andybeardness/Learning-C/tree/main/chapter-03) : Представление данных в Си
+- [✔️ Глава 04](https://github.com/andybeardness/Learning-C/tree/main/chapter-04) : Cимвольные  строки и  форматированный ввод-вывод
+- [✔️ Глава 05](https://github.com/andybeardness/Learning-C/tree/main/chapter-05) : Операции, выражения и операторы
+- [✔️ Глава 06](https://github.com/andybeardness/Learning-C/tree/main/chapter-06) : Управляющие операторы: циклы
+- [✔️ Глава 07](https://github.com/andybeardness/Learning-C/tree/main/chapter-07) : Управляющие операторы: ветвление и безусловные переходы
+- [✔️ Глава 08](https://github.com/andybeardness/Learning-C/tree/main/chapter-08) : Символьный ввод-вывод и верификация ввода
+- [✔️ Глава 09](https://github.com/andybeardness/Learning-C/tree/main/chapter-09) : Функции
 - [✔️ Глава 10](https://github.com/andybeardness/Learning-C/tree/main/chapter-10) : Массивы и указатели
 - [✔️ Глава 11](https://github.com/andybeardness/Learning-C/tree/main/chapter-11) : Символьные строки и строковые функции
 - [✔️ Глава 12](https://github.com/andybeardness/Learning-C/tree/main/chapter-12) : Классы памяти, компоновка и управление памятью
